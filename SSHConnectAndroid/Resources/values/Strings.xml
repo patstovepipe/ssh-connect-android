@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">SSH Connect Android</string>
+  <string name="btnConnect">Connect</string>
+  <string name="btnKillProcess">Kill Process</string>
+  <string name="btnRestart">Restart</string>
+  <string name="btnShutdown">Shutdown</string>
+  <string name="btnSave">Save</string>
+  <string name="txtViewUsername">Username</string>
+  <string name="txtViewPassword">Password</string>
+  <string name="txtViewAPIAddress">API Address</string>
+</resources>
